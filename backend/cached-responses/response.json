@@ -1,0 +1,184 @@
+[
+    {
+        "local_time": "4/4/2023, 6:10:00 PM",
+        "underdog": "Washington Wizards",
+        "favorite": "Milwaukee Bucks",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 660
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -850
+        },
+        "best_conversion": 69.47368421052632
+    },
+    {
+        "local_time": "4/4/2023, 7:10:00 PM",
+        "underdog": "Houston Rockets",
+        "favorite": "Denver Nuggets",
+        "best_underdog": {
+            "bookmaker": "DraftKings",
+            "odds": 400
+        },
+        "best_favorite": {
+            "bookmaker": "William Hill (US)",
+            "odds": -480
+        },
+        "best_conversion": 68.96551724137932
+    },
+    {
+        "local_time": "4/4/2023, 6:10:00 PM",
+        "underdog": "Detroit Pistons",
+        "favorite": "Miami Heat",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 500
+        },
+        "best_favorite": {
+            "bookmaker": "William Hill (US)",
+            "odds": -650
+        },
+        "best_conversion": 66.66666666666667
+    },
+    {
+        "local_time": "4/4/2023, 8:10:00 PM",
+        "underdog": "Utah Jazz",
+        "favorite": "Los Angeles Lakers",
+        "best_underdog": {
+            "bookmaker": "DraftKings",
+            "odds": 270
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -325
+        },
+        "best_conversion": 63.529411764705884
+    },
+    {
+        "local_time": "4/4/2023, 9:10:00 PM",
+        "underdog": "Oklahoma City Thunder",
+        "favorite": "Golden State Warriors",
+        "best_underdog": {
+            "bookmaker": "DraftKings",
+            "odds": 270
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -325
+        },
+        "best_conversion": 63.529411764705884
+    },
+    {
+        "local_time": "4/4/2023, 6:10:00 PM",
+        "underdog": "Charlotte Hornets",
+        "favorite": "Toronto Raptors",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 750
+        },
+        "best_favorite": {
+            "bookmaker": "William Hill (US)",
+            "odds": -1100
+        },
+        "best_conversion": 62.5
+    },
+    {
+        "local_time": "4/4/2023, 7:10:00 PM",
+        "underdog": "Portland Trail Blazers",
+        "favorite": "Memphis Grizzlies",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 1300
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -2100
+        },
+        "best_conversion": 59.09090909090909
+    },
+    {
+        "local_time": "4/4/2023, 9:10:00 PM",
+        "underdog": "San Antonio Spurs",
+        "favorite": "Phoenix Suns",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 1300
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -2100
+        },
+        "best_conversion": 59.09090909090909
+    },
+    {
+        "local_time": "4/4/2023, 6:10:00 PM",
+        "underdog": "Orlando Magic",
+        "favorite": "Cleveland Cavaliers",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 164
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -190
+        },
+        "best_conversion": 56.55172413793104
+    },
+    {
+        "local_time": "4/4/2023, 7:10:00 PM",
+        "underdog": "Atlanta Hawks",
+        "favorite": "Chicago Bulls",
+        "best_underdog": {
+            "bookmaker": "William Hill (US)",
+            "odds": 143
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -155
+        },
+        "best_conversion": 56.078431372549026
+    },
+    {
+        "local_time": "4/4/2023, 7:00:00 PM",
+        "underdog": "Boston Celtics",
+        "favorite": "Philadelphia 76ers",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 118
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -130
+        },
+        "best_conversion": 51.30434782608696
+    },
+    {
+        "local_time": "4/4/2023, 7:10:00 PM",
+        "underdog": "Sacramento Kings",
+        "favorite": "New Orleans Pelicans",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": 120
+        },
+        "best_favorite": {
+            "bookmaker": "DraftKings",
+            "odds": -140
+        },
+        "best_conversion": 50
+    },
+    {
+        "local_time": "4/4/2023, 6:40:00 PM",
+        "underdog": "Minnesota Timberwolves",
+        "favorite": "Brooklyn Nets",
+        "best_underdog": {
+            "bookmaker": "FanDuel",
+            "odds": -104
+        },
+        "best_favorite": {
+            "bookmaker": "William Hill (US)",
+            "odds": -110
+        },
+        "best_conversion": -49.52380952380952
+    }
+]
